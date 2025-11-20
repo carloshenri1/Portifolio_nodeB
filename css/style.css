@@ -36,7 +36,7 @@ body {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-    background-color: var(--cor-fundo);
+    background: linear-gradient(90deg,rgba(118, 137, 196, 1) 0%, rgba(18, 27, 74, 1) 35%, rgba(0, 152, 186, 1) 100%);
 
     color: var(--cor-texto-primario);
 
